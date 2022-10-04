@@ -6,7 +6,7 @@
 - :high_brightness: Я - начинающий веб-разработчик
 - :jigsaw: Люблю создавать удобные сервисы для людей
 - :open_book: Постоянно изучаю новые технологии
-- :seedling: Открыта к сотрудничеству <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :seedling: Открыта к сотрудничеству <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
 
 
 ### :hammer_and_wrench: Мой стек:
