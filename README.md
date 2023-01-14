@@ -23,3 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Expressjs" **alt="Vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" **alt="Vscode" width="40" height="40"/>
 </div>
+
+Now I work with my diploma project "movies-explorer". It's a web app that helps to find interesting films. 
+The second project I work with now is my pet-project "notes". A user can create, edit and remove notes there. 
