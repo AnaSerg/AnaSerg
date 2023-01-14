@@ -9,7 +9,7 @@
 - :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
 
 
-### :hammer_and_wrench: Мой стек:
+### :hammer_and_wrench: I'm good with:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
