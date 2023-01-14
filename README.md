@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
 </div>
 
-### :woman_technologist:  Привет, меня зовут Настя!
-- :high_brightness: Я - начинающий веб-разработчик
-- :jigsaw: Люблю создавать удобные сервисы для людей
-- :open_book: Постоянно изучаю новые технологии
-- :seedling: Открыта к сотрудничеству <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
+### :woman_technologist:  Hello, my name is Anastasia!
+- :high_brightness: I'm a software developer.
+- :jigsaw: I adore to create comfortable, beautiful, useful web services and apps!
+- :open_book: I always learn new techs, as it helps me to be more efficient.
+- :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
 
 
 ### :hammer_and_wrench: Мой стек:
