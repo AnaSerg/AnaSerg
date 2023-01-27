@@ -3,7 +3,7 @@
 </div>
 
 ### :woman_technologist:  Hello, my name is Anastasia!
-- :high_brightness: I'm a software developer.
+- :high_brightness: I'm a frontend developer.
 - :jigsaw: I adore to create comfortable, beautiful, useful web services and apps!
 - :open_book: I always learn new techs, as it helps me to be more efficient.
 - :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
