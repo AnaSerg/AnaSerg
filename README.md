@@ -1,12 +1,8 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200"/>
-</div>
-
 ### :woman_technologist:  Hello, my name is Anastasia!
 - :high_brightness: I'm a frontend developer.
 - :jigsaw: I adore to create comfortable, beautiful, useful web services and apps!
 - :open_book: I always learn new techs, as it helps me to be more efficient.
-- :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru
+- :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru TG: +79111993490
 
 
 ### :hammer_and_wrench: I'm good with:
@@ -23,7 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Expressjs" **alt="Vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" **alt="Vscode" width="40" height="40"/>
 </div>
-
-### Current projects
-Now I work with my diploma project "movies-explorer". It's a web app that helps to find interesting films. 
-The second project I work with now is my pet-project "notes". A user can create, edit and remove notes there. https://github.com/AnaSerg/notes-app-vanilla-js
