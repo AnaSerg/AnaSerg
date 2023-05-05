@@ -1,11 +1,11 @@
-### :woman_technologist:  Hello, my name is Anastasia!
-- :high_brightness: I'm a frontend developer.
-- :jigsaw: I adore to create comfortable, beautiful, useful web services and apps!
-- :open_book: I always learn new techs, as it helps me to be more efficient.
-- :seedling: Open to work with you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru TG: +79111993490
+### :woman_technologist:  Привет, меня зовут Сергеева Настя!
+- Я фронтенд-разработчик на Реакте.
+- Создаю удобные сервисы, которые делают!
+- Мой сайт-портфолио, где вы можете ознакомиться с реализованными проектами - https://portfolio-anaserg.netlify.app/
+- Открыта к сотрудничеству <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> sergeeva.anastasia.m@yandex.ru TG: +79111993490
 
 
-### :hammer_and_wrench: I'm good with:
+### :hammer_and_wrench: Стек:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
